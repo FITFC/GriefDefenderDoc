@@ -7,6 +7,10 @@ icon: screen
 
 ## Config
 
+::: tip Useful links
+[Flags Definitions -  Community](/faq/Flag-Definitions)
+:::
+
 The flag definition system provides both users and admins the ability to manage their claim flags in a [chat](/wiki/basic/GUI.html#chat) or [inventory](/wiki/basic/GUI.html#inventory) GUI.  
 GriefDefender delivers a bundle of flag definitions by default to provide the best compatibility across servers.  
 The delivered vanilla flag definition data can be found in the following location
